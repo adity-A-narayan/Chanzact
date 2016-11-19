@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Change</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Contacts">
+        <item>Person1       9xxxxxxxxx</item>
+        <item>Person2       8xxxxxxxxx</item>
+        <item>Person3       8xxxxxxxxx</item>
+        <item>Person4       7xxxxxxxxx</item>
+        <item>Person5       9xxxxxxxxx</item>
+        <item>Person6       8xxxxxxxxx</item>
+        <item>Person7       9xxxxxxxxx</item>
+        <item>Person8       9xxxxxxxxx</item>
+        <item>Person9       9xxxxxxxxx</item>
+        <item>Person10      9xxxxxxxxx</item>
+        <item>Person11      9xxxxxxxxx</item>
+    </string-array>
+
+</resources>
